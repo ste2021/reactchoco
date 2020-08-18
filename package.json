@@ -10,14 +10,18 @@
     "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "serve": "^11.3.2",
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "static": "npx serve -s build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "npx eslint --fix ."
   },
   "browserslist": {
     "production": [
@@ -39,6 +43,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.5",
     "eslint-plugin-react-hooks": "^4.0.8",
+    "jest": "^26.3.0",
     "prettier": "^2.0.5"
   }
 }

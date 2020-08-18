@@ -1,4 +1,4 @@
-import {createGlobalStyle} from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 export default createGlobalStyle`
 
@@ -9,18 +9,14 @@ export default createGlobalStyle`
   box-sizing: border-box;
 }
 
-html, body #app {
-   min-height: 100%;
-
+html, body, #root{
+  min-height:100%;
 }
-
 
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    background: #ff9839;
-    -webkit-font-smoothing: antialiased;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ff9839;
+  -webkit-font-smoothing: antialiased;
 }
-
-
 
 `;
