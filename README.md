@@ -14,10 +14,12 @@
 ` Início do Projeto React Chocolate`
 
 ````````npm install -g create-react-app````````
+
 O comando acima instala globalmente o módulo create-react-app, para que o mesmo fique acessível pelo terminal
 
        ````````` create-react-app my-app````````````
-       O comando acima gera a estrutura do nosso projeto e a coloca em uma nova pasta com o mesmo nome, my-app
+      
+  O comando acima gera a estrutura do nosso projeto e a coloca em uma nova pasta com o mesmo nome, my-app
 
 ## Available Scripts
 
