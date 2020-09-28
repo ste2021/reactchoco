@@ -4,15 +4,20 @@
 
 ## Objetivo do projeto
 
-# Desenvolver uma aplicação utilizando o React para fins educacionais
+# Desenvolver uma aplicação utilizando o React, para ser consumida por uma API para fins educacionais
 
 ```Requisitos Necessários```
-
+- [x] Node
+- [x] NPM
 - [x] Uma IDE de sua preferência, aqui trabalhei com VSCode;
 
 ` Início do Projeto React Chocolate`
 
-````npx create-react-app react-chocochoco````
+````````npm install -g create-react-app````````
+O comando acima instala globalmente o módulo create-react-app, para que o mesmo fique acessível pelo terminal
+
+       ````````` create-react-app my-app````````````
+       O comando acima gera a estrutura do nosso projeto e a coloca em uma nova pasta com o mesmo nome, my-app
 
 ## Available Scripts
 
