@@ -17,7 +17,7 @@
 
 O comando acima instala globalmente o módulo create-react-app, para que o mesmo fique acessível pelo terminal
 
-        ````````create-react-app my-app````````
+`````create-react-app my-app`````
       
   O comando acima gera a estrutura do nosso projeto e a coloca em uma nova pasta com o mesmo nome, my-app
 
