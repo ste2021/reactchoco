@@ -1,7 +1,6 @@
 ## ChocoChoco APP
 
-### DEV : [Estela de Oliveira](https://github.com/ste2021)
-
+### DEV :
 | [Estela de Oliveira](https://github.com/ste2021) | email: estela.oliveira.cont@gmail.com  	| Likedin: https://www.linkedin.com/feed/ |
 |---	|---	|---	|
 
