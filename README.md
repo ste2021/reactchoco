@@ -2,6 +2,12 @@
 
 ### DEV : [Estela de Oliveira](https://github.com/ste2021)
 
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
 ## Objetivo do projeto
 
 # Desenvolver uma aplicação utilizando o React, para ser consumida por uma API para fins educacionais
