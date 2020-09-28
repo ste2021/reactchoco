@@ -6,6 +6,12 @@
 
 # Desenvolver uma aplicação utilizando o React, para ser consumida por uma API para fins educacionais
 
+## Linguagens e libs utilizadas :books:
+
+- [Javascript] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
+- [React](https://pt-br.reactjs.org/);
+- [Styled Components] (https://www.maujor.com/tutorial/biblioteca-react-styled-components.php);
+
 ```Requisitos Necessários```
 - [x] Node
 - [x] NPM
