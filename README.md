@@ -8,7 +8,7 @@
 
 ## Linguagens e libs utilizadas :books:
 
-- [Javascript] (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
+- [Javascript] Javascript (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript);
 - [React](https://pt-br.reactjs.org/);
 - [Styled Components] (https://www.maujor.com/tutorial/biblioteca-react-styled-components.php);
 
