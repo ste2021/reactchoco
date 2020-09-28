@@ -12,6 +12,8 @@
 
 ` Início do Projeto React Chocolate`
 
+````npx create-react-app react-chocochoco````
+
 ## Available Scripts
 
 In the project directory, you can run:
